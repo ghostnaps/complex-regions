@@ -1,7 +1,7 @@
 [package]
 name = "ComplexRegions"
 authors = [ "David Minnerly <me@vocksel.com>" ]
-version = "0.1.2"
+version = "0.1.3"
 license = "MIT"
 content_root = "src"
 files = [ "*", "!*.spec.lua" ]
